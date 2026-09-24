@@ -2,8 +2,6 @@
 layout: ../layouts/AboutLayout.astro
 title: O mnie
 ---
-# Dr inż. Dariusz Dobrowolski
-
 Jestem pracownikiem naukowo-dydaktycznym **Katedry Technologii Informatycznych Wydziału Zarządzania i Modelowania Komputerowego Politechniki Świętokrzyskiej** w Kielcach. W działalności dydaktycznej i naukowej zajmuję się zagadnieniami związanymi z informatyką, inżynierią danych, zarządzaniem wiedzą oraz zastosowaniem narzędzi informatycznych w organizacjach.
 
 
@@ -75,8 +73,6 @@ W 2025 roku  byłem również promotorem pracy dyplomowej Jacka Osojcy zatytuło
 ---
 
 ## Obszary zainteresowań
-
-
 
 **Technologie informatyczne**
 
