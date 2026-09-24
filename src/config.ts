@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://ddobrow.eu/", // replace this with your deployed domain
   author: "Dariusz Dobrowolski",
   desc: "Dariusz Dobrowolski",
-  title: "DDOBROW",
+  title: "ddobrow",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
